@@ -7,14 +7,7 @@ this github is where I host `projects`, `ideas`, `documents`, etc. The future of
 - write blogs
 - ~~abandon projects~~
 
-⚭ links
->  [twitter](https://www.twitter.com/garrepi)  
->  [website](https://www.garrepi.dev)   
+␦ languages used here: `⻦ swift` `␀ c` `⚙ rust` `␆ c++(begrudgingly)` `⑀ python` `λ haskell` `♽ php`
 
- ␦ languages used here
- - `swift`
- - `c/c++(begrudgingly)`
- - `rust`
- - `python`
- - `haskell`
- - `php`
+⚭ links: [twitter](https://www.twitter.com/garrepi) [website](https://www.garrepi.dev)   
+
