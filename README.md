@@ -10,5 +10,5 @@ Things I do here:
 - *abandon projects*
 
 Links:
-- [twitter](www.twitter.com/garrepi)
-- [website](www.garrepi.dev)
+- [twitter](https://www.twitter.com/garrepi)
+- [website](https://www.garrepi.dev)
